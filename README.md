@@ -9,3 +9,5 @@ Category: Deep Learning
 Skills:
 Python,Python Web Frame Works - Flask,CNN
 
+Project Demo Link:
+https://drive.google.com/file/d/1QQaFxPgqVZkBlGE8COBTTNbJ289r0qme/view?usp=sharing
